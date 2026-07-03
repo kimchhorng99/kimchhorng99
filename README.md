@@ -67,12 +67,11 @@ Debugging       Logs, Trace IDs, SQL inspection, Production issue tracing
 ```bash
 > github --stats kimchhorng99
 ```
-
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kimchhorng99&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img width="49%" height="170" src="https://github-readme-stats.vercel.app/api?username=kimchhorng99&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400" alt="Kim Chhorng GitHub Stats" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimchhorng99&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="49%" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimchhorng99&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Kim Chhorng Top Languages" />
 
 </div>
 
