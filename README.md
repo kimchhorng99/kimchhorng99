@@ -14,42 +14,150 @@
 
 ---
 
-```go
-package main
+```bash
+> whoami
+```
 
-import "fmt"
+I’m a backend engineer focused on building reliable fintech systems: APIs, payment workflows, card services, webhook workers, authentication, and database-heavy backend logic.
 
-type Engineer struct {
-	Name      string
-	Location  string
-	Role      string
-	Focus     []string
-	Stack     []string
-	Belief    string
-}
+I enjoy cleaning messy systems, making migrations safer, tracing production bugs, and turning “why is this broken?” into “okay, now it makes sense.”
 
-func main() {
-	me := Engineer{
-		Name:     "Kim Chhorng",
-		Location: "Cambodia 🇰🇭",
-		Role:     "Backend Engineer",
-		Focus: []string{
-			"payment systems",
-			"card platform",
-			"webhooks",
-			"database migrations",
-			"clean backend architecture",
-		},
-		Stack: []string{
-			"Go",
-			"PostgreSQL",
-			"Redis",
-			"Docker",
-			"REST APIs",
-			"GORM",
-		},
-		Belief: "Simple code. Clear schema. Reliable production.",
-	}
+---
 
-	fmt.Printf("%+v\n", me)
-}
+```bash
+> ls ./stack
+```
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=go,postgres,redis,docker,kubernetes,git,github,linux,nginx,aws,js,ts,nodejs,vue" />
+
+</div>
+
+---
+
+```bash
+> cat ./current-focus.md
+```
+
+- Designing safer database migration flow
+- Centralizing schema ownership across services
+- Building payment and card request workflows
+- Improving trace logs and debugging visibility
+- Working with Go services, PostgreSQL, Redis, and webhook workers
+- Learning better system design through real production problems
+
+---
+
+```bash
+> cat ./backend-toolkit.md
+```
+
+```txt
+Languages       Go, JavaScript, TypeScript, SQL
+Backend         REST APIs, Microservices, Webhooks, Workers
+Database        PostgreSQL, GORM, Indexing, Migrations
+Infra           Docker, Redis, Linux, Nginx
+Architecture    Clean Architecture, Service Layer, Repository Pattern
+Debugging       Logs, Trace IDs, SQL inspection, Production issue tracing
+```
+
+---
+
+```bash
+> github --stats kimchhorng99
+```
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kimchhorng99&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimchhorng99&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+```bash
+> git streak
+```
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=kimchhorng99&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+```bash
+> contribution activity
+```
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kimchhorng99&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
+---
+
+```bash
+> cat ./engineering-values.md
+```
+
+```txt
+Readable code > clever code
+Safe migrations > fast migrations
+Clear logs > guessing
+Small services > giant mystery boxes
+Production stability > framework hype
+```
+
+---
+
+```bash
+> recent-impact
+```
+
+| Area | What I care about |
+|---|---|
+| Payments | Reliable transaction and webhook flow |
+| Cards | Card request, top-up, transfer, withdrawal logic |
+| Database | Schema ownership, migrations, indexes, constraints |
+| Observability | Trace ID, request lifecycle logs, clear error source |
+| Backend | Maintainable Go services with clean boundaries |
+
+---
+
+```bash
+> connect
+```
+
+<div align="center">
+
+<a href="https://github.com/kimchhorng99">
+  <img src="https://img.shields.io/badge/GitHub-kimchhorng99-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="mailto:your-email@example.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://linkedin.com/in/your-linkedin">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+```txt
+Built with Go mindset: small pieces, clear behavior, fewer surprises.
+```
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:7c3aed,100:0f766e&section=footer" />
