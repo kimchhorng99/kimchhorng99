@@ -69,9 +69,16 @@ Debugging       Logs, Trace IDs, SQL inspection, Production issue tracing
 ```
 <div align="center">
 
-<img width="49%" height="170" src="https://github-readme-stats.vercel.app/api?username=kimchhorng99&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400" alt="Kim Chhorng GitHub Stats" />
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kimchhorng99&theme=tokyonight" alt="Kim Chhorng GitHub Profile Summary" />
 
-<img width="49%" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimchhorng99&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Kim Chhorng Top Languages" />
+
+
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kimchhorng99&theme=tokyonight" alt="Top Languages by Repo" />
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kimchhorng99&theme=tokyonight" alt="Top Languages by Commit" />
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kimchhorng99&theme=tokyonight" alt="GitHub Stats" />
 
 </div>
 
